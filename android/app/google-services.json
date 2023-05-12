@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50064239668",
+    "firebase_url": "https://dp-project-e9482-default-rtdb.firebaseio.com",
+    "project_id": "dp-project-e9482",
+    "storage_bucket": "dp-project-e9482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50064239668:android:72224faf74e79685506e61",
+        "android_client_info": {
+          "package_name": "com.example.hydroponic_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50064239668-v5rm89o46jdr5fvnqomciu2dorcohi2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzj7ipac-QzAIccMaJjm6ctaxWJ8jwgno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50064239668-v5rm89o46jdr5fvnqomciu2dorcohi2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
