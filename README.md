@@ -1,5 +1,7 @@
 # hydroponic_system
 
+<img src="[pic.jpeg](https://github.com/Anuj-S62/hydroponic_system/assets/96018337/d440d9f0-38fb-4b93-a5e3-86cc24f891df)" width="50%" height="50%" />
+
 ![f68c191f-2ac8-43ae-84c8-53aeca3d1436](https://github.com/Anuj-S62/hydroponic_system/assets/96018337/d440d9f0-38fb-4b93-a5e3-86cc24f891df)
 
 ![b148bde4-a265-46c9-b5ba-26ac451b5b66](https://github.com/Anuj-S62/hydroponic_system/assets/96018337/3e51d4a4-5c1d-489d-bb55-2ba66fe6b501)
