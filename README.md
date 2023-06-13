@@ -1,7 +1,7 @@
 # hydroponic_system
 ## Smart Hydroponic System
 
-Hydroponics is a model of the high-tech application in agriculture. With this model, plants grow without soil and use nutrient solutions in water. When the farmer applies an intelligent hydroponic system, the plants grow quickly with uniform product quality and yield from 30 to 40% higher than conventional cultivation.
+Hydroponics is a model of the high-tech application in agriculture. With this model, plants grow without soil and use nutrient solutions in water.In Hydroiponic System plants grow quickly with uniform product quality and yield from 30 to 40% higher than conventional cultivation.
 
 Smart Hydroponic System Pictures:
 
