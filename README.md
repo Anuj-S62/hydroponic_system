@@ -10,7 +10,7 @@ Smart Hydroponic System Pictures:
 <img src="https://github.com/Anuj-S62/hydroponic_system/assets/96018337/f51d912b-b974-4b9f-9172-d00bc0b7242e" width="400">
 
 ## Smart Hydroponic System companion app for android
-- This app is used to control and monitor the hydroponic system from anywhere.
+- This app is used to control and monitor the hydroponic system over the internet.
 - It shows reading of all the the sensors like Water Temperature, Humidity, pH, Surrounding Temperature, Water Level etc.
 - Can also be used to change the threshold values of temperature, pH etc.
 - App also has the notification system, it sends the notification to the user and turn off the sytem if any sensor stops working.
